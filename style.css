@@ -10,11 +10,11 @@
 /* import fonts */
 @font-face {
     font-family: montserrat, sans-serif;
-    src: url("montserrat-regular.ttf");
+    src: url("montserrat-regular.ttf")format("truetype");
 }
 @font-face {
     font-family: indie-flower;
-    src: url("IndieFlower-Regular.ttf");
+    src: url("IndieFlower-Regular.ttf")format("truetype");
 }
 
 /* header style */
