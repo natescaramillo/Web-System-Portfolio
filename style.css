@@ -428,7 +428,7 @@
     transition: width 0.5s ease;
 }
 .html {
-    width: 90%;
+    width: 70%;
     background-color: #ff00d0; 
 }
 .css {
@@ -440,11 +440,11 @@
     background-color: #ff00d0; 
 }
 .java {
-    width: 95%;
+    width: 70%;
     background-color: #ff00d0; 
 }
 .sql {
-    width: 80%;
+    width: 60%;
     background-color: #ff00d0; 
 }
 
